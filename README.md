@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon bug related to the innerHTML property in HTML.  The bug arises from improper usage of the innerHTML property, which can lead to XSS vulnerabilities and unexpected behavior. The solution showcases the correct and secure way to use innerHTML to prevent these issues.
